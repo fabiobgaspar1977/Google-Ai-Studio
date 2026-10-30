@@ -1,0 +1,6 @@
+{
+  "name": "Mantix CMMS - Gestão de Manutenção",
+  "description": "Sistema modular de controle e gestão de manutenção com ativos, ordens de serviço, preventivas, estoque de peças e armazenamento local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
